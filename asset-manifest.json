@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Current-Song-Discovery/static/css/main.9b7071e1.chunk.css",
+    "main.js": "/Current-Song-Discovery/static/js/main.ebdf4df2.chunk.js",
+    "main.js.map": "/Current-Song-Discovery/static/js/main.ebdf4df2.chunk.js.map",
+    "runtime-main.js": "/Current-Song-Discovery/static/js/runtime-main.ffec89ed.js",
+    "runtime-main.js.map": "/Current-Song-Discovery/static/js/runtime-main.ffec89ed.js.map",
+    "static/js/2.3a498c7d.chunk.js": "/Current-Song-Discovery/static/js/2.3a498c7d.chunk.js",
+    "static/js/2.3a498c7d.chunk.js.map": "/Current-Song-Discovery/static/js/2.3a498c7d.chunk.js.map",
+    "index.html": "/Current-Song-Discovery/index.html",
+    "precache-manifest.96e968a018c6dde29865986c0129e2fa.js": "/Current-Song-Discovery/precache-manifest.96e968a018c6dde29865986c0129e2fa.js",
+    "service-worker.js": "/Current-Song-Discovery/service-worker.js",
+    "static/css/main.9b7071e1.chunk.css.map": "/Current-Song-Discovery/static/css/main.9b7071e1.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ffec89ed.js",
+    "static/js/2.3a498c7d.chunk.js",
+    "static/css/main.9b7071e1.chunk.css",
+    "static/js/main.ebdf4df2.chunk.js"
+  ]
+}
