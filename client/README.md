@@ -6,16 +6,22 @@ This web application uses Spotify login authentication to access the current pla
 
 ## Design
 
+The structure of the design is quite simple.
+
+TrackTheory features a discover button and login button.
+These buttons trigger the display of the track facts on the page.
+
 ## Technology
 
 TrackTheory's front end is built using the React framework with HTML based on JSON data from Spotify Api.
 
+The backend technology uses Express and Node.js for API access and data fetching. 
 
 
+## Future Development
 
-
-
-
+- Create a drop down for different playlists,
+- Write an algorithm for a relation between top play counts, replay counts, and track facts for favorite keys and genres.
 
 
 ## React
